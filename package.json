@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.5.3",
+    "eris": "^0.15.1",
+    "express": "^4.17.1",
+    "image-data-uri": "^2.0.1",
+    "tweetnacl": "^1.0.3"
+  }
+}
